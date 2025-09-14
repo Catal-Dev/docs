@@ -8,10 +8,7 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
-  "styling" {
-    "codeblocks": "dark",
-  },
-  "navigation": {
+   "navigation": {
     "tabs": [
       {
         "tab": "Guides",
